@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## Skills 
+| Spring boot | Junit5 | Java11 | SQL | Spring MVC | Sprign JPA | Spring Security | Thymeleaf | Javascript | css |
+# Used Before
+| React | MongoDB | Truffle |
+
 <!--
 **KwangJongJeon/KwangJongJeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
