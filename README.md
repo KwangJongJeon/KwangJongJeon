@@ -1,8 +1,11 @@
 ### Hi there 👋
 
+## About
+스프링을 통해 백앤드쪽을 주로 개발을 진행하고있습니다. 보다 유지보수가 편한 프로젝트를 만드려고 노력중입니다.
+
 ## Skills 
 | Spring boot | Junit5 | Java11 | SQL | Spring MVC | Sprign JPA | Spring Security | Thymeleaf | Javascript | css |
-# Used Before
+### Used Before
 | React | MongoDB | Truffle |
 
 <!--
