@@ -1,11 +1,16 @@
 ## About
-스프링을 통해 백앤드쪽을 주로 개발을 진행하고있습니다. 보다 유지보수가 편한 프로젝트를 만드려고 노력중입니다.
+안녕하세요, 백앤드 개발자로 활동하고 있는 전광종입니다.
+프로그램을 개발할 때, 확장성 있고 단단한 프로그램을 만드는 것을 제 1목표로 개발을 진행하고 있습니다. 문의사항이 있으시다면 언제든지 편하게 연락주세요!
 
 ## Skills 
-### Main
-Spring boot | Junit5 | Java11 | SQL | Spring MVC | Sprign JPA | Spring Security | Thymeleaf | Javascript | css 
+### DEV
+Spring boot | Junit5 | Java | SQL | Spring MVC | Sprign JPA | Spring Security | Thymeleaf | Javascript | css
+### INFRA
+Nginx | Jenkins | Docker | Docker swarm | 
+### DB
+MongoDB | Redis | Mysql 
 ### Used Before
-React | MongoDB | Redux | Node.js
+React | MongoDB | Redux | Node.js 
 
 <!--
 **KwangJongJeon/KwangJongJeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
